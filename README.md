@@ -1,11 +1,12 @@
 # AdvancedWidget3
 
-Screenshoot Aplikasi
+* Screenshoot Aplikasi
+
 ![Screenshoot pertama](https://ramadhanirz.files.wordpress.com/2016/10/whatsapp-image-2016-10-29-at-8-36-12-pm4.jpeg)
 ![Screenshoot kedua](https://ramadhanirz.files.wordpress.com/2016/10/whatsapp-image-2016-10-29-at-8-36-12-pm5.jpeg)
 
 
-IDENTITAS
+* IDENTITAS
 
 <p> Nama : Riza Ramadhani.
 <p> Kelas : XII RPL 2.
